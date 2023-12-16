@@ -1,0 +1,104 @@
+{
+  "profile": [
+    {
+      "id": "4",
+      "name": "Quin",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Female",
+      "hair": "Dark",
+      "origin": "Earth",
+      "image": "https://finalspaceapi.com/api/character/avatar/quinn_ergon.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Abadango Cluster Princess",
+      "status": "Alive",
+      "species": "Alien",
+      "hair": "Pink",
+      "gender": "Female",
+      "origin": "Abadango",
+      "image": "https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+    },
+    {
+      "id": "6",
+      "name": "Little Cato",
+      "status": "Alive",
+      "species": "Ventrexian",
+      "gender": "Male",
+      "hair": "Orange,Turquoise(dyed)",
+      "origin": "Ventrexia",
+      "image": "https://finalspaceapi.com/api/character/avatar/little_cato.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Avocato",
+      "status": "Alive",
+      "species": "Ventrexian",
+      "gender": "Male",
+      "hair": "Dark Teal / White ",
+      "origin": "Ventrexia",
+      "image": "https://finalspaceapi.com/api/character/avatar/avocato.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Albert Einstein",
+      "status": "Dead",
+      "species": "Human",
+      "gender": "Male",
+      "hair": "White ",
+      "origin": "Earth (C-137)",
+      "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+    },
+    {
+      "id": "9",
+      "name": "Ash Graven",
+      "status": "Unknown",
+      "species": "Serepentian",
+      "gender": "Female",
+      "hair": "Pink",
+      "origin": "Serepentis",
+      "image": "https://finalspaceapi.com/api/character/avatar/ash_graven.png"
+    },
+    {
+      "id": "10",
+      "name": "Fox",
+      "status": "Deceased",
+      "species": "Tryvuulian",
+      "gender": "Female",
+      "hair": "None",
+      "origin": "Tryvuulia",
+      "image": "https://finalspaceapi.com/api/character/avatar/fox.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Amish Cyborg",
+      "status": "Dead",
+      "species": "Alien",
+      "gender": "Male",
+      "hair": "Black",
+      "origin": "Earth ",
+      "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+    },
+    {
+      "id": "12",
+      "name": "Tribore Menendez",
+      "status": "Alive",
+      "species": "Unknown",
+      "gender": "Male",
+      "hair": "None",
+      "origin": "Hatched",
+      "image": "https://finalspaceapi.com/api/character/avatar/tribore.jpg"
+    },
+    {
+      "name": "kira",
+      "image": "https://i1.sndcdn.com/artworks-000489525642-ehdy75-t500x500.jpg",
+      "hair": "Dark Brown",
+      "status": "Alive",
+      "species": "Human",
+      "gender": "Female",
+      "origin": "Earth",
+      "id": "4ahkbcE"
+    }
+  ]
+}
